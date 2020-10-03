@@ -21,7 +21,7 @@ class Welcome extends CI_Controller {
 	public function index()
 	{
 
-		echo "Hello";
+		echo "Hi, Sudheer jee, you are learning GIT code" ;
 		$this->load->view('welcome_message');
 
 	}
